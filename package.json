@@ -1,0 +1,26 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "This is a project to connect with developers, a practice project to learn MERN Stack.",
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "ReactJS",
+    "TypeScript",
+    "MongoDB"
+  ],
+  "license": "ISC",
+  "author": "Piyush Kumbhar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.2.0"
+  }
+}
